@@ -13,8 +13,8 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  colorize (~> 1.1)
-  redis (~> 5.4)
+  colorize
+  redis
 
 BUNDLED WITH
    2.6.3
